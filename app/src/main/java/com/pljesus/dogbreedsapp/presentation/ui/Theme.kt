@@ -1,4 +1,4 @@
-package com.pljesus.dogbreedsapp.ui.theme
+package com.pljesus.dogbreedsapp.presentation
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
